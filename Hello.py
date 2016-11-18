@@ -1,0 +1,5 @@
+print ( "Hello World \n ")
+x=input("\n Please enter your name here buddy\n")
+print (x)
+length=len(x)
+print (length)
